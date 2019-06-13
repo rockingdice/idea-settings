@@ -1,0 +1,14 @@
+<keymap version="1" name="My Settings for flutter" parent="Mac OS X 10.5+">
+  <action id="Console.TableResult.Reload" />
+  <action id="ReformatCode">
+    <keyboard-shortcut first-keystroke="shift meta w" />
+  </action>
+  <action id="Refresh" />
+  <action id="Replace" />
+  <action id="Rerun" />
+  <action id="Run">
+    <keyboard-shortcut first-keystroke="meta r" />
+  </action>
+  <action id="Vcs.Log.Refresh" />
+  <action id="hg4idea.QRefresh" />
+</keymap>
