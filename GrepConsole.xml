@@ -159,6 +159,23 @@
                       </option>
                     </GrepExpressionItem>
                     <GrepExpressionItem>
+                      <option name="caseInsensitive" value="true" />
+                      <option name="continueMatching" value="true" />
+                      <option name="grepExpression" value=".*IAP.*" />
+                      <option name="highlightOnlyMatchingText" value="true" />
+                      <option name="operationOnMatch" value="CONTINUE_MATCHING" />
+                      <option name="style">
+                        <GrepStyle>
+                          <option name="backgroundColor">
+                            <GrepColor>
+                              <option name="color" value="-13530763" />
+                              <option name="enabled" value="true" />
+                            </GrepColor>
+                          </option>
+                        </GrepStyle>
+                      </option>
+                    </GrepExpressionItem>
+                    <GrepExpressionItem>
                       <option name="grepExpression" value=".*SEVERE:.*" />
                       <option name="style">
                         <GrepStyle>
