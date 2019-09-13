@@ -1,0 +1,8 @@
+<templateSet group="Flutter">
+  <template name="singleton" value="class $NAME$ {&#10;  static final $NAME$ _singleton = new $NAME$._internal();&#10;&#10;  factory $NAME$() {&#10;    return _singleton;&#10;  }&#10;&#10;  $NAME$._internal();&#10;}" description="单例" toReformat="false" toShortenFQNames="true">
+    <variable name="NAME" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="DART_TOPLEVEL" value="true" />
+    </context>
+  </template>
+</templateSet>
