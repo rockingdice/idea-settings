@@ -1,8 +1,0 @@
-<application>
-  <component name="HttpConfigurable">
-    <option name="PROXY_HOST" value="wjp1.avpn.cc" />
-    <option name="PROXY_PORT" value="44300" />
-    <option name="PROXY_AUTHENTICATION" value="true" />
-    <option name="KEEP_PROXY_PASSWORD" value="true" />
-  </component>
-</application>
