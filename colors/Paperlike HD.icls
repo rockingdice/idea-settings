@@ -4,7 +4,7 @@
     <property name="created">2019-09-24T09:56:42</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2019.2.2.0.0</property>
-    <property name="modified">2019-10-12T12:03:59</property>
+    <property name="modified">2019-10-12T18:57:15</property>
     <property name="originalScheme">Solarized Light copy</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.2" />
@@ -796,6 +796,7 @@
       <value>
         <option name="FOREGROUND" value="cb4b16" />
         <option name="FONT_TYPE" value="2" />
+        <option name="EFFECT_COLOR" value="ff7c42" />
       </value>
     </option>
     <option name="DEFAULT_METADATA">
@@ -3316,11 +3317,11 @@
     </option>
     <option name="TODO_DEFAULT_ATTRIBUTES">
       <value>
-        <option name="FOREGROUND" value="268bd2" />
-        <option name="FONT_TYPE" value="3" />
-        <option name="EFFECT_COLOR" value="ffffff" />
+        <option name="FOREGROUND" value="6ed26a" />
+        <option name="FONT_TYPE" value="2" />
+        <option name="EFFECT_COLOR" value="ff005b" />
         <option name="ERROR_STRIPE_COLOR" value="268bd2" />
-        <option name="EFFECT_TYPE" value="2" />
+        <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
     <option name="TWIG_BACKGROUND">
