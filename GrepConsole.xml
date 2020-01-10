@@ -332,6 +332,26 @@
                         </GrepStyle>
                       </option>
                     </GrepExpressionItem>
+                    <GrepExpressionItem>
+                      <option name="continueMatching" value="true" />
+                      <option name="grepExpression" value=".*controller:.*" />
+                      <option name="operationOnMatch" value="CONTINUE_MATCHING" />
+                      <option name="style">
+                        <GrepStyle>
+                          <option name="backgroundColor">
+                            <GrepColor>
+                              <option name="color" value="-20939" />
+                              <option name="enabled" value="true" />
+                            </GrepColor>
+                          </option>
+                          <option name="foregroundColor">
+                            <GrepColor>
+                              <option name="enabled" value="true" />
+                            </GrepColor>
+                          </option>
+                        </GrepStyle>
+                      </option>
+                    </GrepExpressionItem>
                   </list>
                 </option>
                 <option name="name" value="default" />
