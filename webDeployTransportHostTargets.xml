@@ -40,7 +40,7 @@
               <id>a1c72c4d-7579-4035-aa94-182f93ab90d1</id>
             </TransportTarget>
           </option>
-          <option name="targetPath" value="/opt/tomcat/webapps" />
+          <option name="targetPath" value="" />
         </WebDeploymentTransportHostTarget>
       </list>
     </option>
