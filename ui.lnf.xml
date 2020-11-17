@@ -3,6 +3,7 @@
     <option name="ACTIVATE_MRU_EDITOR_ON_CLOSE" value="true" />
     <option name="CLOSE_TAB_BUTTON_ON_THE_RIGHT" value="false" />
     <option name="EDITOR_TAB_PLACEMENT" value="3" />
+    <option name="IDE_AA_TYPE" value="Greyscale" />
     <option name="REUSE_NOT_MODIFIED_TABS" value="true" />
   </component>
 </application>
