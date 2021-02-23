@@ -5,4 +5,10 @@
       <option name="DART_TOPLEVEL" value="true" />
     </context>
   </template>
+  <template name="resp" value="if (value.isSuccess()) {&#10;    var resp = $NAME$.fromJson(value.body);&#10;}" description="Response from json object" toReformat="false" toShortenFQNames="true">
+    <variable name="NAME" expression="dartClassName()" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="DART_STATEMENT" value="true" />
+    </context>
+  </template>
 </templateSet>
