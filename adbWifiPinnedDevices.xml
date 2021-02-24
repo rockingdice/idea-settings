@@ -1,5 +1,5 @@
 <application>
   <component name="PinDeviceService">
-    <option name="pinnedDevices" value="[{&quot;id&quot;:&quot;192.168.102.143:5555&quot;,&quot;serialNumber&quot;:&quot;GCL5T19B28016911&quot;,&quot;name&quot;:&quot;HUAWEI TAS-AN00&quot;,&quot;address&quot;:&quot;192.168.102.143&quot;,&quot;androidVersion&quot;:&quot;10&quot;,&quot;apiLevel&quot;:&quot;29&quot;}]" />
+    <option name="pinnedDevices" value="[{&quot;id&quot;:&quot;192.168.101.236:5555&quot;,&quot;serialNumber&quot;:&quot;GCL5T19B28016911&quot;,&quot;name&quot;:&quot;HUAWEI TAS-AN00&quot;,&quot;address&quot;:&quot;192.168.101.236&quot;,&quot;androidVersion&quot;:&quot;10&quot;,&quot;apiLevel&quot;:&quot;29&quot;}]" />
   </component>
 </application>
