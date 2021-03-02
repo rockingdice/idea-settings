@@ -1,5 +1,5 @@
 <templateSet group="Hetu">
-  <template name="build" value="fun build : Map&lt;String&gt; {&#10;&#10;}" toReformat="false" toShortenFQNames="true">
+  <template name="build" value="fun build : Map&lt;String&gt; {&#10;&#10;}" description="" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="ANY_OPENAPI_JSON_FILE" value="false" />
       <option name="ANY_OPENAPI_YAML_FILE" value="false" />

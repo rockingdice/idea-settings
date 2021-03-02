@@ -12,8 +12,6 @@
     </options>
     <keywords keywords="as;break;class;construct;continue;data;def;else;extends;external;for;fun;get;if;implements;import;in;interface;is;let;mixin;namespace;proc;return;set;static;super;this;var;when;while" ignore_case="false" />
     <keywords2 keywords="List;Map;String;any;bool;null;num" />
-    <keywords3 />
-    <keywords4 />
   </highlighting>
   <extensionMap>
     <mapping ext="ht" />
