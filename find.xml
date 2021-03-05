@@ -9,8 +9,8 @@
     <mask>*.html</mask>
     <mask>*.xml</mask>
     <mask>*.jsp</mask>
-    <mask>*.dart</mask>
     <mask>*.properties</mask>
     <mask>*.java</mask>
+    <mask>*.dart</mask>
   </component>
 </application>
