@@ -6,6 +6,7 @@
       <mapping pattern="build_target_android_cn" type="PLAIN_TEXT" />
       <mapping ext="mustache" type="PLAIN_TEXT" />
       <mapping ext="template" type="PLAIN_TEXT" />
+      <mapping pattern=".analysis_options" type="YAML" />
       <removed_mapping ext="apk" approved="true" type="ARCHIVE" />
       <removed_mapping ext="ht" approved="true" type="tsconfig" />
       <removed_mapping ext="psd" approved="true" type="Image" />
