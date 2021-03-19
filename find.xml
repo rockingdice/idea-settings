@@ -9,7 +9,7 @@
     <mask>*.jsp</mask>
     <mask>*.properties</mask>
     <mask>*.java</mask>
-    <mask>*.ht</mask>
     <mask>*.dart</mask>
+    <mask>*.ht</mask>
   </component>
 </application>
