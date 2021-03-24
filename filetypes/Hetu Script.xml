@@ -13,7 +13,6 @@
     <keywords keywords="fun var class import" ignore_case="false" />
     <keywords2 keywords="String bool int num" />
     <keywords3 keywords="List Map" />
-    <keywords4 />
   </highlighting>
   <extensionMap>
     <mapping ext="ht" />
