@@ -35,6 +35,10 @@
     <keyboard-shortcut first-keystroke="f4" />
   </action>
   <action id="Flutter.JumpToSource" />
+  <action id="Flutter.Toolbar.RestartAction">
+    <keyboard-shortcut first-keystroke="shift meta back_slash" />
+    <keyboard-shortcut first-keystroke="shift meta e" />
+  </action>
   <action id="Graph.Faces.OpenSelectedPages">
     <keyboard-shortcut first-keystroke="f4" />
   </action>
@@ -52,6 +56,7 @@
   <action id="OpenModuleSettings">
     <keyboard-shortcut first-keystroke="f4" />
   </action>
+  <action id="RecentLocations" />
   <action id="ReformatCode">
     <keyboard-shortcut first-keystroke="shift meta w" />
   </action>
