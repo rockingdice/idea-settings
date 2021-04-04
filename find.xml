@@ -15,7 +15,7 @@
     <mask>*.java</mask>
     <mask>*.mustache</mask>
     <mask>*.json</mask>
-    <mask>*.dart</mask>
     <mask>*.ht</mask>
+    <mask>*.dart</mask>
   </component>
 </application>
