@@ -4,14 +4,15 @@
       <option name="LINE_COMMENT" value="//" />
       <option name="COMMENT_START" value="/*" />
       <option name="COMMENT_END" value="*/" />
-      <option name="HEX_PREFIX" value="" />
+      <option name="HEX_PREFIX" value="0x" />
       <option name="NUM_POSTFIXES" value="" />
       <option name="HAS_BRACES" value="true" />
       <option name="HAS_BRACKETS" value="true" />
       <option name="HAS_PARENS" value="true" />
     </options>
-    <keywords keywords="as;break;class;construct;continue;data;def;else;extends;external;for;fun;get;if;implements;import;in;interface;is;let;mixin;namespace;proc;return;set;static;super;this;var;when;while" ignore_case="false" />
-    <keywords2 keywords="List;Map;String;any;bool;null;num" />
+    <keywords keywords="fun var class import" ignore_case="false" />
+    <keywords2 keywords="String bool int num" />
+    <keywords3 keywords="List Map" />
   </highlighting>
   <extensionMap>
     <mapping ext="ht" />
