@@ -3,7 +3,6 @@
     <extensionMap>
       <mapping pattern="dd.dart" type="AUTO_DETECTED" />
       <mapping pattern="page_home_news" type="AUTO_DETECTED" />
-      <mapping pattern=".prettierrc" type="JSON" />
       <mapping ext="gradle.kts" type="Kotlin" />
       <mapping ext="main.kts" type="Kotlin" />
       <mapping pattern="build_target_android_cn" type="PLAIN_TEXT" />
