@@ -1,18 +1,17 @@
 <application>
-  <component name="FileTypeManager" version="17">
+  <component name="FileTypeManager" version="18">
     <extensionMap>
-      <mapping pattern=".prettierrc" type="JSON" />
+      <mapping pattern="dd.dart" type="AUTO_DETECTED" />
+      <mapping pattern="page_home_news" type="AUTO_DETECTED" />
       <mapping ext="gradle.kts" type="Kotlin" />
       <mapping ext="main.kts" type="Kotlin" />
       <mapping pattern="build_target_android_cn" type="PLAIN_TEXT" />
+      <mapping ext="mustache" type="PLAIN_TEXT" />
       <mapping ext="template" type="PLAIN_TEXT" />
       <mapping ext="td" type="PLAIN_TEXT" />
-      <mapping ext="mustache" type="PLAIN_TEXT" />
-      <removed_mapping ext="psd" approved="true" type="Image" />
-      <removed_mapping ext="ht" approved="true" type="TypeScript" />
       <removed_mapping ext="apk" approved="true" type="ARCHIVE" />
-      <mapping pattern="dd.dart" type="AUTO_DETECTED" />
-      <mapping pattern="page_home_news" type="AUTO_DETECTED" />
+      <removed_mapping ext="ht" approved="true" type="TypeScript" />
+      <removed_mapping ext="psd" approved="true" type="Image" />
     </extensionMap>
   </component>
 </application>
